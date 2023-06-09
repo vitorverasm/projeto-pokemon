@@ -8,7 +8,7 @@ const amount: number = 100.50
 const hasPET: boolean = true
 // array
 const numbers = [1, 2, 3, 4]
-const letras = ['A', 'B', 'C']
+const letras = ['A', 'B', 'C', 'D']
 
 // cammel case
 const nomeDaPessoa = ""
